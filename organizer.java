@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class jobHuntOrganizer {
+public class organizer {
  public static void main(String[] args) throws Exception {
  
    BufferedReader reader = new BufferedReader(new FileReader("jobList.txt"));
