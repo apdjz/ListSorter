@@ -3,6 +3,7 @@
 Sorts the list in alphabetical order
 
 Ex:
+
 CompanyA
 
 	Job Position1
